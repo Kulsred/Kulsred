@@ -26,14 +26,6 @@ I am a beginner coder, I have been learning languages for 3 years and am current
 ![Unity](https://img.shields.io/badge/unity-000000?logo=unity&logoColor=white)
 ![NVIDIA](https://img.shields.io/badge/nVIDIA-76B900?logo=nVIDIA&logoColor=white)
 
-# GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.shion.dev/api?username=Kulsred)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Kulsred)
-
-![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=Kulsred)
-
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Kulsred)
